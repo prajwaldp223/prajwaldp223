@@ -12,8 +12,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prajwaldp223&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwaldp223&theme=dark&hide_border=false"/><br/> <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwaldp223&theme=dark&hide_border=false"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwaldp223&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
