@@ -1,6 +1,7 @@
 
-# 💫 About Me:
-👋 Hello! I'm Prajwal D P<br><br>🚀 Ambitious Tech Enthusiast | 4th Semester ISE Student at UVCE**  <br>🎓 Currently pursuing B.Tech in Information Science & Engineering at University Visvesvaraya College of Engineering (UVCE).  <br>💡 Exploring innovative solutions and creating impactful projects in various fields of technology.<br><br>
+<h1 align="center">Hello World!!</h1>
+<h3 align="left">About me:</h3>
+👋I'm Prajwal D P<br><br>🚀 Ambitious Tech Enthusiast | 4th Semester ISE Student at UVCE**  <br>🎓 Currently pursuing B.Tech in Information Science & Engineering at University Visvesvaraya College of Engineering (UVCE).  <br>💡 Exploring innovative solutions and creating impactful projects in various fields of technology.<br><br>
 
 
 ## 🌐 Socials:
